@@ -2,16 +2,16 @@
 Creado por Reaktor Innovations y la Universidad de Helsinki
 ¡Copia la plantilla, pégala en tu GitHub README y edita! -->
 
-# Título del proyecto
+#Título del proyecto
 
 Proyecto final para el curso Building AI
 
-## Summary
+##Resumen
 
 Describa brevemente en 2-3 oraciones de lo que trata su proyecto. ¡Unos 250 caracteres son una buena longitud!
 
 
-## Antecedentes
+##Antecedentes
 
 ¿Qué problemas resuelve tu idea? ¿Qué tan frecuente o frecuente es este problema? ¿Cuál es tu motivación personal? ¿Por qué es importante o interesante este tema?
 
@@ -21,7 +21,7 @@ Así es como se hace una lista, si se necesita una:
 * etc.
 
 
-## ¿Cómo se utiliza?
+##¿Cómo se utiliza?
 
 Describa el proceso de uso de la solución. ¿En qué situaciones de tipo se necesita la solución (medio ambiente, tiempo, etc.)? ¿Quiénes son los usuarios, qué tipo de necesidades se deben tener en cuenta?
 
