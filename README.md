@@ -6,7 +6,7 @@ Creado por Reaktor Innovations y la Universidad de Helsinki
 
 Proyecto final para el curso Building AI
 
-## Resumen
+## Summary
 
 Describa brevemente en 2-3 oraciones de lo que trata su proyecto. ¡Unos 250 caracteres son una buena longitud!
 
