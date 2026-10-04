@@ -1,5 +1,5 @@
 <!- Esta es la plantilla de marca para el proyecto final del curso Building AI,
-Creado por Reaktor Innovations y la Universidad de Helsinki.
+Creado por Reaktor Innovations y la Universidad de Helsinki
 ¡Copia la plantilla, pégala en tu GitHub README y edita! -->
 
 # Título del proyecto
