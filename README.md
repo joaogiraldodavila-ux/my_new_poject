@@ -1,79 +1,35 @@
-<!- Esta es la plantilla de marca para el proyecto final del curso Building AI,
-Creado por Reaktor Innovations y la Universidad de Helsinki
-¡Copia la plantilla, pégala en tu GitHub README y edita! -->
-## Nombre
+# Title of your Project
 
-JOAO README
+Final project for the Building AI course
 
-## Resumen
-Aquí debes escribir todo el texto de tu resumen. Asegúrate de que no haya líneas en blanco extrañas o caracteres raros justo en el título.
+## Summary
 
-## Instalación
-(Otras secciones de tu proyecto...)
+Describe briefly in 2-3 sentences what your project is about. What problem does it solve, how does it solve it, and who is it for?
 
-## Antecedentes
+## Background
 
-¿Qué problemas resuelve tu idea? ¿Qué tan frecuente o frecuente es este problema? ¿Cuál es tu motivación personal? ¿Por qué es importante o interesante este tema?
+Which problems does your idea solve? How frequent or important is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-Así es como se hace una lista, si se necesita una:
-* problema 1
-* problema 2
+* problem 1
+* problem 2
 * etc.
 
+## How is it used?
 
-## ¿Cómo se utiliza?
+Describe the process of using the solution. In what situations is the solution used? Who are the users, and what are their needs?
 
-Describa el proceso de uso de la solución. ¿En qué situaciones de tipo se necesita la solución (medio ambiente, tiempo, etc.)? ¿Quiénes son los usuarios, qué tipo de necesidades se deben tener en cuenta?
+## Data sources and AI methods
 
-¡Las imágenes harán que tu README se vea bien!
-Una vez que suba una imagen a su repositorio, puede vincular un enlace a esta (reemplace la URL con la ruta de archivo, si ha subido una imagen a Github).
-![ Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_herback.jpg)
+Where does the data come from? How is it collected or generated? Which AI or machine learning techniques are used?
 
-Si necesita cambiar el tamaño de las imágenes, debe usar una etiqueta HTML, como esta:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+## Challenges
 
-Así es como se crean ejemplos de código:
-```
-def main():
-países = ['Dinamarca', 'Finlandia', 'Islandia', 'Noruega', 'Suecia']
-pop = [5615000, 5439000, 324000, 5080000, 9609000] # en realidad no es necesario en este ejercicio...
-Pescadores = [1891, 2652, 3800, 11611, 1757]
+What are the limitations of this project? What does it not solve? What ethical considerations should be taken into account?
 
-totPop = suma (pop)
-totFish = suma (pescadores)
+## What next?
 
-# escribe tu solución aquí
+How could the project grow and develop? What skills or resources are needed to take it to the next level?
 
-para i en el rango (len (países)):
-imprimir("%s %.2f%%" % (país[i], 100.0)) # actual solo imprime el 100%
+## Acknowledgments
 
-main()
-```
-
-
-## Fuentes de datos y métodos de IA
-¿De dónde vienen tus datos? ¿Lo recopila usted mismo o utiliza los datos recopilados por otra persona?
-Si necesita usar enlaces, aquí hay un ejemplo:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Sintaxis | Descripción |
-| ----------- |-----------
-| Encabezado | Título |
-| Párrafo | Texto |
-
-## Desafíos
-
-¿Qué resuelve tu proyecto _not_? ¿Qué limitaciones y consideraciones éticas deben tenerse en cuenta al implementar una solución como esta?
-
-## ¿Qué sigue?
-
-¿Cómo podría tu proyecto crecer y convertirse en algo aún más? ¿Qué tipo de habilidades, qué tipo de asistencia necesitaría para seguir adelante?
-
-
-## Reconocimientos
-
-* Enumere aquí las fuentes de inspiración
-* no utilizar código, imágenes, datos, etc. de otros sin permiso
-* cuando tenga permiso para usar los materiales de otras personas, siempre mencione el creador original y la licencia de código abierto / Creative Commons que han utilizado
-<br>Por ejemplo: [Sleeping Cat on Her Back por Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* List here any sources of inspiration, code, data, or assistance you received
